@@ -1,7 +1,7 @@
 ---
 layout: page
-title: How I Beat Type 2 Diabetes
-permalink: /how-to-beat-type-2-diabetes/
+title: Disclaimer
+permalink: /struggling-with-prediabetes/
 ---
 
 ### Disclaimer
