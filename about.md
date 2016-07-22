@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Jonathan Worthington.  This blog documents my struggles with Type 2 Diabetes and 
+things that have helped me improve my condition over time.  
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+If you have any questions about me or my journey please feel free to email me!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[worthingtonjg@gmail.com](mailto:worthingtonjg@gmail.com)
