@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How I Beat Type 2 Diabetes With Exercise
-permalink: //
+permalink: /how-I-beat-type-2-diabetes-with-diet/
 ---
 
 <a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-exercise">Back</a>

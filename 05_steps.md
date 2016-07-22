@@ -43,3 +43,4 @@ I beat my diabetes with a three pronged approach.  Below are links to each topic
 - <a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-medication">Medication</a>
 - <a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-diet">Diet</a>
 - <a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-exercise">Exercise</a>
+
