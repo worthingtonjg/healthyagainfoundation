@@ -5,7 +5,11 @@ permalink: /about/
 ---
 
 My name is Jonathan Worthington.  This blog documents my struggles with Type 2 Diabetes and 
-things that have helped me improve my condition over time.  
+things that have helped me improve my condition over time.
+
+### My Struggle with Diabetes
+
+Click <a href="{{ site.baseurl }}/pre-diabetes-diagnosis">here</a> to learn more about my struggle with diabetes and how I beat it. 
 
 ### More Information
 

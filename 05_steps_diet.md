@@ -4,6 +4,8 @@ title: How I Beat Type 2 Diabetes With Diet
 permalink: /how-I-beat-type-2-diabetes-with-diet/
 ---
 
+<a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-diet">Back</a>
+
 As a diabetic, I learned that I could simply not eat the same foods as other people and expect for things to be okay.
 
 I found that my diet had to be very strict.  
@@ -201,3 +203,5 @@ Please keep in mind that the opinions expressed below are NOT medical advice.  P
 
 This is just what worked for me.  Do not stop taking your medication or do anything I've done unless your doctor tells you 
 that it is okay in your situation. 
+
+<a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-exercise">Next - How I beat diabetes with diet</a>

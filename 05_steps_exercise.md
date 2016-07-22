@@ -4,6 +4,8 @@ title: How I Beat Type 2 Diabetes With Exercise
 permalink: //
 ---
 
+<a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-exercise">Back</a>
+
 I could not have reversed my diabetes without exercise.   
 
 
@@ -26,5 +28,5 @@ Great for helping you lose weight, but better in conjunction with Strength train
 
 Most important and will greatly improve your blood sugar over time.
 
-
+<a href="{{ site.baseurl }}/diabetes-resources">Next - Your Journey</a>
 

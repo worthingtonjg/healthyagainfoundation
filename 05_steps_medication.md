@@ -4,6 +4,8 @@ title: How I Beat Type 2 Diabetes with Medication
 permalink: /how-I-beat-type-2-diabetes-with-medication/
 ---
 
+<a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes">Back</a>
+
 The biggest mistake I made was to resist / delay getting medical help.  I did this for several reasons:
 
 1.  Doctor's didn't convey to me how serious the problem was
@@ -78,9 +80,4 @@ Why do I do this?
 - Measuring my blood sugar multiple times enabled me to make better choices about when to excercie and eat 
 - If I could measure my blood sugar constantly I would!  
 
-### This is not medical advice
-
-Please keep in mind that the opinions expressed below are NOT medical advice.  Please read my full disclaimer.
-
-This is just what worked for me.  Do not stop taking your medication or do anything I've done unless your doctor tells you 
-that it is okay in your situation. 
+<a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-diet">Next - How I beat diabetes with diet</a>

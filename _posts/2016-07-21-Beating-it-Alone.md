@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Struggle
+title: Post 1
 ---
 
 ### Being told I am pre-diabetic and my initial reaction
