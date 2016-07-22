@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Disclaimer
+title: Struggling with prediabetes
 permalink: /struggling-with-prediabetes/
 ---
 
@@ -10,4 +10,4 @@ But my blood glucose was getting progressive worse.
 
 Finally at the end of 2014 things came to a head when the Doctor said my A1c was 10.7
 
-<a href="{{ site.baseurl }}/struggling-with-prediabetes">Next - Realizing I needed help</a>
+<a href="{{ site.baseurl }}/realities-of-type-2-diabietes">Next - Realizing I needed help</a>

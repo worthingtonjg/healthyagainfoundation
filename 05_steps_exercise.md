@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How I Beat Type 2 Diabetes With Exercise
-permalink: /how-I-beat-type-2-diabetes-with-exercise/
+permalink: //
 ---
 
 I could not have reversed my diabetes without exercise.   

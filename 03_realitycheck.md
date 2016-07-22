@@ -10,4 +10,4 @@ Cholesterol = 300+
 
 Metformin
 
-<a href="{{ site.baseurl }}/beating-diabetes">Next - Realizing I needed help</a>
+<a href="{{ site.baseurl }}/beating-diabetes">Next - How I am doing today</a>
