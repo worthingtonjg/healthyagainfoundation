@@ -19,9 +19,9 @@ or physical problems that may occur directly or indirectly from reading this blo
 
 I am in direct ability and use of conversation under following articles.
 
-        (9) A person who does not hold himself out to be a dietitian or nutritionist when that person furnishes nutrition information on food, food materials, or dietary supplements. This Article does not prohibit that person from making explanations to customers about foods or food products in connection with the marketing and distribution of these products.
+> (9) A person who does not hold himself out to be a dietitian or nutritionist when that person furnishes nutrition information on food, food materials, or dietary supplements. This Article does not prohibit that person from making explanations to customers about foods or food products in connection with the marketing and distribution of these products.
 
-        (10) An herbalist or other person who does not hold himself out to be a dietitian or nutritionist when the person furnishes nonfraudulent specific nutritional information and counseling about the reported or historical use of herbs, vitamins, minerals, amino acids, carbohydrates, sugars, enzymes, food concentrates, or other foods. (1991, c. 668, s. 1; 1995, c. 509, s. 135.2(s).)
+> (10) An herbalist or other person who does not hold himself out to be a dietitian or nutritionist when the person furnishes nonfraudulent specific nutritional information and counseling about the reported or historical use of herbs, vitamins, minerals, amino acids, carbohydrates, sugars, enzymes, food concentrates, or other foods. (1991, c. 668, s. 1; 1995, c. 509, s. 135.2(s).)
 
 Again, you are not on the website of a nutritionist or dietitian. If you wish to do so please contact a board certified person in your state.
 
