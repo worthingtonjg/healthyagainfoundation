@@ -22,4 +22,4 @@ I knew that my health wasn't good.  But I didn't know what to do to fix it.
 
 Since I didn't really know the seriousness of what I was dealing with, I thought i could beat it alone.
 
-<a href="">
+- <a href="{{ site.baseurl }}/struggling-with-prediabetes">Next - Thinking I could beat it alone was my worst mistake</a>
