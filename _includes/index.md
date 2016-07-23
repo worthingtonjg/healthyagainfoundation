@@ -55,7 +55,7 @@ At the end of 2015 a normal blood glucose reading for me was between 180 and 200
 
 I could get it lower, but I had to exercise for an hour to do it, and the lowest I could ever get was 130.  
 
-Finally at the end of 2014 things came to a head when the Doctor said my A1c was 10.7
+Finally at the end of 2015 things came to a head when the Doctor said my A1c was 10.7
 
 Also my Triglycerids where over 900 and my cholesterol was over 300.
 
@@ -66,17 +66,18 @@ I have to admit I was super scared.
 ### Why Diet and Exercise alone didn't work for me.
 
 I tried for 9 years to beat my Diabetes on my own.  I tried every diet out there to lose weight.  I hit the treadmill endlessly 
-and for hours but was not able to keep my Diabetes under control.  
+and for hours.  I did lose some weight but was not able to keep my Diabetes under control.  
 
 I wasn't able to beat diabetes on my own with just diet and exercise.  My main problem was and will always be will power.  
 
 None of us can be perfect.
 
 And when you have type 2 diabetes every slip up in your diet or missed excercise can have consequences.  So to balance out your 
-imperfections you need medication.  If you done correctly the medication won't be a forever thing.  But you have to get your body
-back into line and the medication will help you do that. 
+imperfections you need medication.  
 
-Please do not take as long as I took to realize you can't fix everything on your own.  Once I realized this I was able
+Now if you done correctly the medication won't be a forever thing.  But you have to get your body back into line and the medication will help you do that. 
+
+Please, do not take as long as I took to realize you can't fix everything on your own.  Once I realized this I was able
 to get by diabetes under control with a three-prong approach.  
 
 ### My Three Pronged Approach
@@ -87,7 +88,7 @@ I beat my diabetes with a three pronged approach.
 2. Exercise
 3. Diet
 
-I don't think just one works.  I think all three are needed to get your body to fully respond and change.
+I don't think just one approach works.  I think all three were  needed to get my body to fully respond and change the way I wanted it to change.
 
 ### How I beat Type 2 Diabetes with Medication
 
@@ -105,13 +106,14 @@ Please, Please don't wait.  I waited 9 years before taking medication.  I though
 Diabetes is a progressive disease that only gets worse and harder to beat if you do nothing, or if
 you don't do enough to stop it's progression.
 
-### Metformin
+#### Metformin
 
 The doctor suggested I start taking Metformin, 2000mg a day.
 
 The worst (and only) side effect I have from it is really bad gas.  This can be embarrasing during the day, so to minimize this 
-problem, I always take it at Dinner so most of the problem happens while I sleep.  If it get's really bad I sleep on the couch
-so my wife doesn't get grossed out.  
+problem, I always take it at dinner so most of the problem happens while I sleep.  
+
+If it get's really bad I sleep on the couch so my wife doesn't get grossed out.  
 
 There are other medications out there.  But Metformin is the most prescribed medication because it has the fewest side effects.
 
@@ -123,19 +125,20 @@ Links about Metformin and side effects:
 - http://www.webmd.com/drugs/2/drug-11285-7061/metformin-oral/metformin---oral/details
 - https://en.wikipedia.org/wiki/Lactic_acidosis
 
-### My experience on Metformin
+#### My experience on Metformin
 
 Taking Metformin has been a miracle for me.  Before I started taking Metformin my blood sugar was consistently above 180, and
 sometimes above 200.  In the first 6 months taking Metformin I actually lost 15 pounds.  And my blood sugar stayed under 150
-even without exercise or diet changes.  Now 150 wasn't good enough for me.  At that level I was still causing damage to my 
-organs and at risk of Heart Disease.  Also it wasn't correcting my problem with High Triglycerids or Cholesterol. 
+even without exercise or diet changes.
 
-### Why I Measure My Blood Glucose
+#### Why I Measure My Blood Glucose
 
-One thing you need to know is not all doctor's are experts on diabetes.  One thing I heard from more than one doctor's is that
+While we are talking about Medication, I think it is a good time to bring up measuring blood glucose.
+
+One thing you need to know is that NOT all doctor's are experts on diabetes.  One thing I heard from more than one doctor's is that
 I didn't need to take my blood glucose daily if I was on Metformin and was a Type 2 Diabetic.
 
-This is terrible advice!  
+**This is terrible advice!**  
 
 This advice mainly comes from the fact that Metformin will not make your blood sugar go too low.  People who take Insulin can
 have their blood sugar go low - which is very dangerous.  You can die from low blood sugar very quickly.  
@@ -145,7 +148,7 @@ Whereas High Blood Sugar will only kill you slowly over time via Heart Disease, 
 So I guess if you are okay with that, then feel free not to check your blood sugar regularly.  I for one would rather live a long
 and quality life free from these problems.
 
-### How Often Do I Measure My Blood Glucose?
+#### How Often Do I Measure My Blood Glucose?
 
 I know nobody likes to prick their finger (especially not multiple times a day).  But if you aren't measuring your blood sugar
 then there is no way for you to know if what you are doing is being effective.
@@ -165,43 +168,79 @@ Why do I do this?
 - Measuring my blood sugar multiple times enabled me to make better choices about when to excercie and eat 
 - If I could measure my blood sugar constantly I would!  
 
-So next I added exercise into my routine.  I found that I really enjoyed playing racquetball.
+#### Medication wasn't enough 
+
+Now 150 blood glucose level wasn't good enough for me.  
+
+At that level I was still causing damage to my organs and at risk of Heart Disease.  Also it wasn't correcting my problem with High Triglycerids or Cholesterol. 
+
+Finally I had no desire to be on a medication for the rest of my life.
+
+So next I added exercise into my routine.  
 
 ### How I beat Type 2 Diabetes with Exercise
 
+Keep in mind that up to this point I did exercise, but just not consistently.  Some weeks I would do it 3 times, and other weeks only once.  
 
+It was very hit or miss.
 
-I started to play racquetball 3 days a week and running or walking on the treadmill the other 2 days.
+At this point I realized that I needed to be religious with my excercise routine.  I needed to do it every day to see a change.
 
-I dropped another 10 pounds.
+I knew I had to make exercise a habit and part of my lifestyle.
 
-My blood sugar was getting better, but was still sporadic - some days it was 120, and other days it was 150
+#### How to Make Exercise a lifestyle
 
-I was seeing improvement but not enough
+There are three strategies I found helpful to make exercise a lifestyle and a habit for me, and not just something I tolerated.
 
-I could not have reversed my diabetes without exercise.   
-
+1.  Find an activity you enjoy
+2.  Find someone to do it with
+3.  Measure your blood sugar before and after exercising to see the result
 
 For me the number one most important thing that has kept me exercising is finding something I enjoy.
+
+So I started to play racquetball 3 days a week and running or walking on the treadmill the other 2 days.
 
 The second most important thing is finding somebody to do it with.
 
 And the third most important thing is taking my blood sugar before and after exercising to see the difference it makes
 
-### When to Exercise
+With this I dropped another 10 pounds.
 
-I excercise after meals.  Usually after lunch and after dinner are times that I exercise.  And I use it as a tool to lower my
-blood sugar and allow me to eat a more normal diet than I could othe
+My blood sugar was getting better, but was still sporadic - some days it was 120, and other days it was 150
+
+I was seeing improvement but not enough.
+
+#### When to Exercise
+
+One thing I found that helped me was to time my exercise when my blood glucose was at its highest.
+
+So I started to excercise after meals.  
+
+Usually after lunch and after dinner are times that I exercise.  And I use it as a tool to lower my
+blood sugar and allow me to eat a more normal diet than I could otherwise.
+
+I know that exercising after a meal doesn't sound fun, but for me it has really been life changing.
+
+With the Metformin helping me keep my blood glucose under 150, adding the excercise in two hours after a meal 
+can push my blood sugar down into the 110 - 120's. 
 
 ### Cardio
 
-Great for helping you lose weight, but better in conjunction with Strength training
+As I mentioned above, when I first started exercising I was doing mainly cardio.  Either by playing racquetball, or 
+by running or walking on the treadmill.
 
-### Strength
+And while this worked, I think it only worked to a point.  
+
+I am definitely glad I started out with the cardio, because it allowed me to get into good enough shape to start a 
+strength training program.
+
+### Strength Training
 
 Most important and will greatly improve your blood sugar over time.
 
-<a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-diet">Back</a>
+### How I beat diabetes with Diet
+
+At the same time I started to make exercise a habit in life, I also started to change my diet.
 
 As a diabetic, I learned that I could simply not eat the same foods as other people and expect for things to be okay.
 
@@ -212,7 +251,7 @@ And that means unfortunately there are many foods I just can't eat.
 But I also found that there are some specific foods that are really good for Diabetics and have helped me control my diabetes
 to an extent that wasn't possible with just medication or exercise
 
-### Lesson 1 - Cheating on your Diet 
+#### Lesson 1 - Cheating on your Diet 
 
 What I've learned is that nobody (especially me) is perfect.  I found that I just can't be perfect all the time on my diet.
 
@@ -233,7 +272,7 @@ So right now, plan to not be perfect.  But don't let that destroy your entire da
 to eat better at the next meal.  If you can follow your rules 80% of the time then you will be far better off than not trying 
 at all.    
  
-### When to eat
+#### When to eat
 
 Diabetes is called the quite killer because often times there are no symptoms.  But for me, if my blood sugar is high, then I 
 get tingly and burning in my feet and toes.  It is possible that this is the starting of permanent nerve damage, but I've never
@@ -253,7 +292,7 @@ is in a healthy range.
 Just think - that means from this one simple trick (plus strategically timed excercising) I can keep my blood sugar in a healthy 
 range for 33% of the time! 
 
-### When not to eat
+#### When not to eat
 
 I have found that eating, in some cases, is more of a habit than a necessity for me.  I am not saying that I starve myself.  But
 I am saying that I don't eat just because it is time to eat.  
@@ -263,7 +302,7 @@ I am saying that I don't eat just because it is time to eat.
 - I have never skipped more than one meal in a row
 - And I don't do this very frequently, but it can be a good tool to control your blood sugar in specific situations
 
-### What Not to Eat
+#### What Not to Eat
 
 For a diet to be successful it has to be a lifestyle change.  
 
@@ -305,7 +344,7 @@ I can tell you from experience this wasn't easy.  These things are hard to give 
 
 But I knew that if you want to beat the disease then I had to change what I ate (at least 80% of the time)
 
-### What you should eat 
+#### What you should eat 
 
 So we've talked about what I try not to eat.  Now let's talk about what I know I should eat:
 
@@ -327,7 +366,7 @@ Finally I have found a list of foods that have drastically helped me lower and c
 that I call Diabetes Fighting Food, and I try to eat these every day. 
 
 
-### Diabetes Fighting Foods
+#### Diabetes Fighting Foods
 
 I have used all the following foods to drastically lower my blood sugar.  Keep in mind that I am doing this as part of a three
 pronged approach of medication, exercise and diet.  I didn't try these foods by themselves.  I suspect that they would work by 
@@ -394,12 +433,15 @@ and I have seen a huge improvement in my blood lipids from doing this.
 
 Another diabetic super food.  I put these in my Oatmeal, or eat a handful in the morning with my shake.
 
-### This is not medical advice
+### Resources and Blog Posts
 
-Please keep in mind that the opinions expressed below are NOT medical advice.  Please read my full disclaimer.
+Please go to my resources page to view the many blog posts on topics that have helped me beat my diabetes.
 
-This is just what worked for me.  Do not stop taking your medication or do anything I've done unless your doctor tells you 
-that it is okay in your situation. 
+Much of the information was summarized in my story above.  But more specific and detailed information can be found in the resouces 
+section of the website.
 
-<a href="{{ site.baseurl }}/how-I-beat-type-2-diabetes-with-exercise">Next - How I beat diabetes with diet</a>
+Also I hope your journey to beat your diabetes is successful.  If you have any questions about me or about anyting on this website feel
+free to contact me.
+
+Best Regards and Good luck!
 
