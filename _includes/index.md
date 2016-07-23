@@ -22,7 +22,7 @@ It has been a long road, but I now know it is possible to accomplish.
 
 Please read my story and hopefully it will inspire you to make positive changes in your life and health. 
 
-### My Story - Pre-diabetes diagnosis
+## My Story - Pre-diabetes diagnosis
 
 In 2006 I was 29 years old and my health was at its worst.  I was over 240 pounds.  I was not happy with my life and my unhappiness was taking a toll on me and my family.
 
