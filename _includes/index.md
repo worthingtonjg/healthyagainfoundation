@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 This blog documents my struggles with Type 2 Diabetes and steps that have helped me improve my condition over time. By sharing my story I hope it may
 motivate other people who have Type 2 Diabetes to take action in their lives. 
 
