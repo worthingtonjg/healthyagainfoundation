@@ -73,7 +73,7 @@ so don't feel like you need to use any specific brand.
 
 - [MuscleTech Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM)
 - [Unsweetened Almond Milk](http://www.amazon.com/gp/product/B005JU9H3W)
-- [Cinnamon](/Diabetic-Super-Food-Whey-Protein/)
+- [Cinnamon](/Diabetic-Super-Food-Cinnamon/)
 - [Flax Seed](/Diabetic-Super-Food-Flax-Seed/)
 - [Chia seed](/Diabetic-Super-Food-Chia-Seed/).
 
@@ -81,8 +81,8 @@ so don't feel like you need to use any specific brand.
 
 Below are some great links that talk about the benefits of Whey Protein in regards to diabetes and weight loss:
 
-- <http://ajcn.nutrition.org/content/82/1/69.abstract>
-- <http://www.livestrong.com/article/531631-how-often-should-you-drink-whey-protein-per-week/>
-- <http://www.wellnessresources.com/weight/articles/how_whey_protein_helps_weight_loss_type_2_diabetes/>
-- <http://www.webmd.com/diet/news/20050729/whey-may-curb-effect-carbs-on-blood-sugar>
-- <http://www.diabetesselfmanagement.com/blog/protein-supplements-whey/>
+- [http://ajcn.nutrition.org/content/82/1/69.abstract](http://ajcn.nutrition.org/content/82/1/69.abstract){:target="_blank"}
+- [http://www.livestrong.com/article/531631-how-often-should-you-drink-whey-protein-per-week/](http://www.livestrong.com/article/531631-how-often-should-you-drink-whey-protein-per-week/){:target="_blank"}
+- [http://www.wellnessresources.com/weight/articles/how_whey_protein_helps_weight_loss_type_2_diabetes/](http://www.wellnessresources.com/weight/articles/how_whey_protein_helps_weight_loss_type_2_diabetes/){:target="_blank"}
+- [http://www.webmd.com/diet/news/20050729/whey-may-curb-effect-carbs-on-blood-sugar](http://www.webmd.com/diet/news/20050729/whey-may-curb-effect-carbs-on-blood-sugar){:target="_blank"}
+- [http://www.diabetesselfmanagement.com/blog/protein-supplements-whey/](http://www.diabetesselfmanagement.com/blog/protein-supplements-whey/){:target="_blank"}
