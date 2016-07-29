@@ -9,7 +9,7 @@ things that have helped me improve my condition over time.
 
 ### My Struggle with Diabetes
 
-Click <a href="{{ site.baseurl }}/pre-diabetes-diagnosis">here</a> to learn more about my struggle with diabetes and how I beat it. 
+Click <a href="{{ site.baseurl }}/">here</a> to learn more about my struggle with diabetes and how I beat it. 
 
 ### More Information
 

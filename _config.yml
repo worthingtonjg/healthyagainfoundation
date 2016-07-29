@@ -9,7 +9,7 @@ name: Healthy Again Foundation
 description: My struggles with Type 2 Diabetes
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -18,8 +18,13 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
+<<<<<<< HEAD
   email:worthingtonjg@gmail.com
   facebook: https://www.facebook.com/worthingtonjg
+=======
+  email: worthingtonjgWgmail.com
+  facebook:
+>>>>>>> 79f85c5dbfd9aedf335e3fb3ef5ce292c53d1ed1
   flickr:
   github: 
   instagram:
