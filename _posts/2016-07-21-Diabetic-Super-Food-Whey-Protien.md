@@ -26,29 +26,42 @@ It turns out there are some scientific reasons behind this.
 When I started doing strength training I started drinking a Whey Protien powder.  However, if I had really known all of it's 
 benefits I would have started taking Whey Protien much sooner. 
 
-The protien I use is MuscleTech 100% Premium Gold Whey Protien.  I mainly choose this one because it was a good price at Walmart.
+The protein I use is MuscleTech 100% Premium Gold Whey Protien.  I mainly choose this one because it was a good price at Walmart.
+But it turns out that it also has great reviews on Amazon.com and in my opinion has been a great product for me.
 
-It turns out that it also has great reviews on Amazon.com
+One thing I like about this Whey Protien is that it is low in Carbohydrates.  It has only 4g total.  But it still tastes really 
+good - just like a milk shake.
 
 |![MuscleTech Whey Protien](/images/whey_01.png)|![MuscleTech Whey Protien Nutrition](/images/whey_02.png)|
 
-[Buy it on Amazon.com](http://www.amazon.com/gp/product/B00MA28CJM)
+I mix it with  unsweetened almond milk, which only has 30 calories. 
 
-I use unsweetened almond milk, which only has 30 calories to mix the protein powder with. This also gives me something that tastes really good to put Cinnamon in, as well as Flax Seed and Chia seed.
+They Whey Protien also gives me a medium that tastes really good to put [Cinnamon](/Diabetic-Super-Food-Whey-Protien/) in, as well as 
+[Flax Seed](Diabetic-Super-Food-FlaxSeed/) and [Chia seed](Diabetic-Super-Food-ChiaSeed/).
 
-I do put a large amount of Cinnamon in. Also the almond milk is low in calories. But I still expected to see my blood sugar levels go up, instead of remain steady.
+I normally use the protien shake in the morning as part of, or in replacement of breakfast. And then sometimes I use it just before 
+or just after my strength training workout.  It just depends on when is most convenient.
 
-The protien shake also keeps me full longer. I normally use the protien shake in the morning as part of, or in replacement of breakfast. And then sometimes I use it just before or just after my strength training workout.
+Since starting the Whey protien I have noticed several benefits:
+
+- I feel full longer (and it feels great to be able to drink something other than water)
+- My blood sugar does not spike nearly as much after meals
+- I recover from workouts quite a bit faster.  
+
+Even if I wasn't working out, I think I would see a benefit from taking the Whey Protein.   
 
 ### Learn More
 
 Below are some great links that talk about the benefits of Whey Protien in regards to diabetes and weight loss
 
-http://ajcn.nutrition.org/content/82/1/69.abstract
-http://www.livestrong.com/article/531631-how-often-should-you-drink-whey-protein-per-week/
-http://www.wellnessresources.com/weight/articles/how_whey_protein_helps_weight_loss_type_2_diabetes/
-http://www.webmd.com/diet/news/20050729/whey-may-curb-effect-carbs-on-blood-sugar
-http://www.diabetesselfmanagement.com/blog/protein-supplements-whey/
+-(http://ajcn.nutrition.org/content/82/1/69.abstract)
+-(http://www.livestrong.com/article/531631-how-often-should-you-drink-whey-protein-per-week/)
+-(http://www.wellnessresources.com/weight/articles/how_whey_protein_helps_weight_loss_type_2_diabetes/)
+-(http://www.webmd.com/diet/news/20050729/whey-may-curb-effect-carbs-on-blood-sugar)
+-(http://www.diabetesselfmanagement.com/blog/protein-supplements-whey/)
 
+### Products
+
+- [MuscleTech Premium Gold Whey Protien](http://www.amazon.com/gp/product/B00MA28CJM)
 
 
