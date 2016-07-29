@@ -44,10 +44,14 @@ good - just like a milk shake.  It comes in both Chocolate and Vanilla Ice Cream
 I normally use the Whey Protein shake in the morning as part of, or in replacement of breakfast. And then sometimes I use it just before 
 or just after my strength training workout.  It just depends on when is most convenient.
 
-- 100% Premium Gold Whey Protein
+Here is how I prepare mine:
+
+- 1 Scoop of 100% Premium Gold Whey Protein
 - I mix it with unsweetened almond milk, which only has 30 calories. 
-- I mix in healthy portion of Cinnamon 
-- I also add [Flax Seed](Diabetic-Super-Food-Flax-Seed/) and [Chia seed](Diabetic-Super-Food-ChiaSeed/)
+- I mix in healthy portion of [Cinnamon](/Diabetic-Super-Food-Cinnamon/) 
+- I also add [Flax Seed](/Diabetic-Super-Food-Flax-Seed/) and [Chia seed](/Diabetic-Super-Food-Chia-Seed/)
+
+I strongly suggest you get a shaker bottle.  Shaking the protien drink works much better than stirring.
 
 ### Benefits I've seen
 
@@ -59,8 +63,8 @@ Since starting the Whey Protein I have noticed several benefits:
 
 Even if I wasn't working out, I think I would see a benefit from taking the Whey Protein.  
 
-The final reason I like the Whey Protein is because it gives me a tasty way to consume [Cinnamon](/Diabetic-Super-Food-Whey-Protein/), 
-as well as [Flax Seed](Diabetic-Super-Food-Flax-Seed/) and [Chia seed](Diabetic-Super-Food-Chia-Seed/).
+The final reason I like the Whey Protein is because it gives me a tasty way to consume [Cinnamon](/Diabetic-Super-Food-Cinnamon/), 
+as well as [Flax Seed](/Diabetic-Super-Food-Flax-Seed/) and [Chia seed](/Diabetic-Super-Food-Chia-Seed/).
 
 ### Products
 
