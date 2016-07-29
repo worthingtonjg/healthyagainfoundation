@@ -29,7 +29,7 @@ When I started doing strength training I started drinking a Whey Protein powder.
 
 *However, if I had really known all of it's benefits I would have started taking Whey Protein much sooner.* 
 
-The protein I use is [MuscleTech 100% Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM).  
+The protein I use is [MuscleTech 100% Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM){:target="_blank"}.  
 
 I mainly choose this one because it was a good price at Walmart.  But it turns out that it also has great reviews on 
 Amazon.com and in my opinion has been a great product for me.
@@ -71,8 +71,8 @@ as well as [Flax Seed](/Diabetic-Super-Food-Flax-Seed/) and [Chia seed](/Diabeti
 Below are a list of the products I use.  These are just the brands that I like.  I don't get paid by these brands to recoomend them
 so don't feel like you need to use any specific brand. 
 
-- [MuscleTech Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM)
-- [Unsweetened Almond Milk](http://www.amazon.com/gp/product/B005JU9H3W)
+- [MuscleTech Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM){:target="_blank"}
+- [Unsweetened Almond Milk](http://www.amazon.com/gp/product/B005JU9H3W){:target="_blank"}
 - [Cinnamon](/Diabetic-Super-Food-Cinnamon/)
 - [Flax Seed](/Diabetic-Super-Food-Flax-Seed/)
 - [Chia seed](/Diabetic-Super-Food-Chia-Seed/).
