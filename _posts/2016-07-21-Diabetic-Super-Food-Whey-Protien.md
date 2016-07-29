@@ -11,9 +11,9 @@ So I was super surprised when I started drinking whey protien shakes and my bloo
 
 In fact, not only did it not raise, it actually was more reliably even.
 
-### Benefits of Whey Protien
-
 It turns out there are some scientific reasons behind this.
+
+### Benefits of Whey Protien
 
 - Whey protien has been shown to improve insulin response and reduce blood glucose response.
 - Studies have also shown that consuming whey protien daily promotes weight loss
@@ -23,7 +23,6 @@ It turns out there are some scientific reasons behind this.
 
 ### How I take Whey Protien
 
-
 When I started doing strength training I started drinking a Whey Protien powder.  However, if I had really known all of it's 
 benefits I would have started taking Whey Protien much sooner. 
 
@@ -31,8 +30,7 @@ The protien I use is MuscleTech 100% Premium Gold Whey Protien.  I mainly choose
 
 It turns out that it also has great reviews on Amazon.com
 
-![MuscleTech Whey Protien](/images/whey_01.png)
-![MuscleTech Whey Protien Nutrition](/images/whey_02.png)
+|![MuscleTech Whey Protien](/images/whey_01.png)|![MuscleTech Whey Protien Nutrition](/images/whey_02.png)|
 
 [Buy it on Amazon.com](http://www.amazon.com/gp/product/B00MA28CJM)
 
