@@ -11,6 +11,8 @@ So I was super surprised when I started drinking whey protien shakes and my bloo
 
 In fact, not only did it not raise, it actually was more reliably even.
 
+### Benefits of Whey Protien
+
 It turns out there are some scientific reasons behind this.
 
 - Whey protien has been shown to improve insulin response and reduce blood glucose response.
@@ -29,20 +31,16 @@ The protien I use is MuscleTech 100% Premium Gold Whey Protien.  I mainly choose
 
 It turns out that it also has great reviews on Amazon.com
 
-http://www.amazon.com/gp/product/B00MA28CJM
+![MuscleTech Whey Protien](/images/whey_01.png)
+![MuscleTech Whey Protien Nutrition](/images/whey_02.png)
 
-[Whey Protien](/images/whey_01.png)
-[Whey Protien](/images/whey_02.png)
-
-
+[Buy it on Amazon.com](http://www.amazon.com/gp/product/B00MA28CJM)
 
 I use unsweetened almond milk, which only has 30 calories to mix the protein powder with. This also gives me something that tastes really good to put Cinnamon in, as well as Flax Seed and Chia seed.
 
 I do put a large amount of Cinnamon in. Also the almond milk is low in calories. But I still expected to see my blood sugar levels go up, instead of remain steady.
 
 The protien shake also keeps me full longer. I normally use the protien shake in the morning as part of, or in replacement of breakfast. And then sometimes I use it just before or just after my strength training workout.
-
-
 
 ### Learn More
 
