@@ -1,50 +1,57 @@
 ---
 layout: post
-title: Diabetic Super Food - Whey Protien
+title: Diabetic Super Food - Whey Protein
 ---
 
-As a Type 2 Diabetic, the one thing I learned early on is that I absolutely *CANNOT* drink my calories. 
+|![Whey Protein Powder](/images/whey.png)
 
-This is because calories in liquid form go directly into the blood stream so quickly and will immediately raise blood sugar levels.
+As a Type 2 Diabetic, the one thing I learned early on is that I absolutely **CANNOT** drink my calories. 
 
-So I was super surprised when I started drinking whey protien shakes and my blood sugar did not raise. 
+This is because calories in liquid form go directly into my blood stream so quickly and will immediately raise my blood sugar levels.
 
-In fact, not only did it not raise, it actually was more reliably even.
+So I was super surprised when I started drinking Whey Protein shakes and my blood sugar did not raise! 
+
+In fact, not only did it not raise, it actually suprisingly steady, even after eating a full meal.
 
 It turns out there are some scientific reasons behind this.
 
-### Benefits of Whey Protien
+### Benefits of Whey Protein
 
-- Whey protien has been shown to improve insulin response and reduce blood glucose response.
-- Studies have also shown that consuming whey protien daily promotes weight loss
-- Drinking Whey protien directly before and after exercise enhances muscle growth and stimulates muscle hypertrophy
-- Supplementing your diet with Whey protein can prevent age-related muscle loss  
-- Whey protien makes you feel full longer
+- Whey Protein has been shown to improve insulin response and reduce blood glucose response.
+- Studies have also shown that consuming Whey Protein daily promotes weight loss
+- Drinking Whey Protein directly before and after exercise enhances muscle growth and stimulates muscle hypertrophy
+- Supplementing your diet with Whey Protein can prevent age-related muscle loss  
+- Whey Protein makes you feel full longer
 
-### How I take Whey Protien
+### What I take
 
-When I started doing strength training I started drinking a Whey Protien powder.  However, if I had really known all of it's 
-benefits I would have started taking Whey Protien much sooner. 
+When I started doing strength training I started drinking a Whey Protein powder.  
 
-The protein I use is MuscleTech 100% Premium Gold Whey Protien.  I mainly choose this one because it was a good price at Walmart.
-But it turns out that it also has great reviews on Amazon.com and in my opinion has been a great product for me.
+*However, if I had really known all of it's benefits I would have started taking Whey Protein much sooner.* 
 
-One thing I like about this Whey Protien is that it is low in Carbohydrates.  It has only 4g total.  But it still tastes really 
-good - just like a milk shake.
+The protein I use is [MuscleTech 100% Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM).  
 
-|![MuscleTech Whey Protien](/images/whey_01.png)
+I mainly choose this one because it was a good price at Walmart.  But it turns out that it also has great reviews on 
+Amazon.com and in my opinion has been a great product for me.
 
-#### Preparation
+One thing I like about this Whey Protein is that it is low in Carbohydrates.  It has only 4g total.  But it still tastes really 
+good - just like a milk shake.  It comes in both Chocolate and Vanilla Ice Cream flavors.  Both of which I like.
 
-- 100% Premium Gold Whey Protien
+|![MuscleTech Whey Protein](/images/whey_01.png)
+
+### Preparation
+
+I normally use the Whey Protein shake in the morning as part of, or in replacement of breakfast. And then sometimes I use it just before 
+or just after my strength training workout.  It just depends on when is most convenient.
+
+- 100% Premium Gold Whey Protein
 - I mix it with unsweetened almond milk, which only has 30 calories. 
 - I mix in healthy portion of Cinnamon 
 - I also add [Flax Seed](Diabetic-Super-Food-Flax-Seed/) and [Chia seed](Diabetic-Super-Food-ChiaSeed/)
 
-I normally use the Whey Protien shake in the morning as part of, or in replacement of breakfast. And then sometimes I use it just before 
-or just after my strength training workout.  It just depends on when is most convenient.
+### Benefits I've seen
 
-Since starting the Whey protien I have noticed several benefits:
+Since starting the Whey Protein I have noticed several benefits:
 
 - I feel full longer (and it feels great to be able to drink something other than water)
 - My blood sugar does not spike nearly as much after meals
@@ -52,7 +59,7 @@ Since starting the Whey protien I have noticed several benefits:
 
 Even if I wasn't working out, I think I would see a benefit from taking the Whey Protein.  
 
-The final reason I like the Whey Protien is because it gives me a tasty way to consume [Cinnamon](/Diabetic-Super-Food-Whey-Protien/), 
+The final reason I like the Whey Protein is because it gives me a tasty way to consume [Cinnamon](/Diabetic-Super-Food-Whey-Protein/), 
 as well as [Flax Seed](Diabetic-Super-Food-Flax-Seed/) and [Chia seed](Diabetic-Super-Food-Chia-Seed/).
 
 ### Products
@@ -60,15 +67,15 @@ as well as [Flax Seed](Diabetic-Super-Food-Flax-Seed/) and [Chia seed](Diabetic-
 Below are a list of the products I use.  These are just the brands that I like.  I don't get paid by these brands to recoomend them
 so don't feel like you need to use any specific brand. 
 
-- [MuscleTech Premium Gold Whey Protien](http://www.amazon.com/gp/product/B00MA28CJM)
+- [MuscleTech Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM)
 - [Unsweetened Almond Milk](http://www.amazon.com/gp/product/B005JU9H3W)
-- [Cinnamon](/Diabetic-Super-Food-Whey-Protien/)
+- [Cinnamon](/Diabetic-Super-Food-Whey-Protein/)
 - [Flax Seed](Diabetic-Super-Food-Flax-Seed/)
 - [Chia seed](Diabetic-Super-Food-Chia-Seed/).
 
 ### Learn More
 
-Below are some great links that talk about the benefits of Whey Protien in regards to diabetes and weight loss:
+Below are some great links that talk about the benefits of Whey Protein in regards to diabetes and weight loss:
 
 - <http://ajcn.nutrition.org/content/82/1/69.abstract>
 - <http://www.livestrong.com/article/531631-how-often-should-you-drink-whey-protein-per-week/>
