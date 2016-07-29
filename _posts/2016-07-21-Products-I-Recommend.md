@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Products-I-Recommend
+title: Products I Recommend
 ---
 
