@@ -74,8 +74,8 @@ so don't feel like you need to use any specific brand.
 - [MuscleTech Premium Gold Whey Protein](http://www.amazon.com/gp/product/B00MA28CJM)
 - [Unsweetened Almond Milk](http://www.amazon.com/gp/product/B005JU9H3W)
 - [Cinnamon](/Diabetic-Super-Food-Whey-Protein/)
-- [Flax Seed](Diabetic-Super-Food-Flax-Seed/)
-- [Chia seed](Diabetic-Super-Food-Chia-Seed/).
+- [Flax Seed](/Diabetic-Super-Food-Flax-Seed/)
+- [Chia seed](/Diabetic-Super-Food-Chia-Seed/).
 
 ### Learn More
 
