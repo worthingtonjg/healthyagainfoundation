@@ -3,13 +3,13 @@ layout: post
 title: Diabetic Super Food - Whey Protein
 ---
 
-|![Whey Protein Powder](/images/whey.png)
-
 As a Type 2 Diabetic, the one thing I learned early on is that I absolutely **CANNOT** drink my calories. 
 
 This is because calories in liquid form go directly into my blood stream so quickly and will immediately raise my blood sugar levels.
 
 So I was super surprised when I started drinking Whey Protein shakes and my blood sugar did not raise! 
+
+|![Whey Protein Powder](/images/whey.png)
 
 In fact, not only did it not raise, it actually suprisingly steady, even after eating a full meal.
 
