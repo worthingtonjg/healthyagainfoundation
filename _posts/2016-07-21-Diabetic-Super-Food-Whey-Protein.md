@@ -11,7 +11,7 @@ So I was super surprised when I started drinking Whey Protein shakes and my bloo
 
 |![Whey Protein Powder](/images/whey.png)
 
-In fact, not only did it not raise, it actually suprisingly steady, even after eating a full meal.
+In fact, not only did it not raise, it was actually suprisingly steady, even after eating a full meal.
 
 It turns out there are some scientific reasons behind this.
 
@@ -42,16 +42,16 @@ good - just like a milk shake.  It comes in both Chocolate and Vanilla Ice Cream
 ### Preparation
 
 I normally use the Whey Protein shake in the morning as part of, or in replacement of breakfast. And then sometimes I use it just before 
-or just after my strength training workout.  It just depends on when is most convenient.
+or just after my strength training workout.  It just depends on what is most convenient for me.
 
 Here is how I prepare mine:
 
 - 1 Scoop of 100% Premium Gold Whey Protein
 - I mix it with unsweetened almond milk, which only has 30 calories. 
-- I mix in healthy portion of [Cinnamon](/Diabetic-Super-Food-Cinnamon/) 
-- I also add [Flax Seed](/Diabetic-Super-Food-Flax-Seed/) and [Chia seed](/Diabetic-Super-Food-Chia-Seed/)
+- I mix in healthy portion of [Cinnamon](/Diabetic-Super-Food-Cinnamon/) (another diabetic super food)
+- I also add [Flax Seed](/Diabetic-Super-Food-Flax-Seed/) and [Chia seed](/Diabetic-Super-Food-Chia-Seed/) (also diabetic super foods)
 
-I strongly suggest you get a shaker bottle.  Shaking the protien drink works much better than stirring.
+I strongly suggest you get a shaker bottle.  Shaking the protein drink works much better than just stirring it.
 
 ### Benefits I've seen
 
@@ -64,7 +64,8 @@ Since starting the Whey Protein I have noticed several benefits:
 Even if I wasn't working out, I think I would see a benefit from taking the Whey Protein.  
 
 The final reason I like the Whey Protein is because it gives me a tasty way to consume [Cinnamon](/Diabetic-Super-Food-Cinnamon/), 
-as well as [Flax Seed](/Diabetic-Super-Food-Flax-Seed/) and [Chia seed](/Diabetic-Super-Food-Chia-Seed/).
+as well as [Flax Seed](/Diabetic-Super-Food-Flax-Seed/) and [Chia seed](/Diabetic-Super-Food-Chia-Seed/).  All of which have health
+benefits for a Type 2 Diabetic.
 
 ### Products
 
