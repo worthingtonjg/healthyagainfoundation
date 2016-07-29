@@ -4,8 +4,7 @@ title: Diabetes Resources
 permalink: /diabetes-resources/
 ---
 The below information is a compilation of all the information I have learned and gathered as I have 
-struggled with beating my Type 2 Diabetes.  Please keep in mind that this is merely an opinion blog.  
-It is the story of my struggle with Type 2 Diabetes and what has worked for me.  I am not a doctor 
+struggled with beating my Type 2 Diabetes.  Please keep in mind that this is merely an opinion blog.  It is the story of my struggle with Type 2 Diabetes and what has worked for me.  I am not a doctor 
 or a registered dietician.  Please read the full <a href="{{ site.baseurl }}/disclaimer">disclaimer</a>.
 <div class="posts">
   {% for post in site.posts %}
