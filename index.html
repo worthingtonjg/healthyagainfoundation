@@ -2,41 +2,6 @@
 layout: default
 ---
 
-<<<<<<< HEAD
-This blog documents my struggles with Type 2 Diabetes and things that have helped me improve my condition over time.
-
-<div class="posts">
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}/pre-diabetes-diagnosis">Read First! <br/> My struggle with diabetes and how I beat it</a></h1>
-
-      <div class="entry">
-        In 2006 my family and I had just moved to Heber Utah.  I had spent the last 10 years working a more than full-time job to try and support my family while at the same time trying to finish college. I was 29 years old and my health was at its worst.  I was over 240 pounds.  I was not happy...
-        <br /><br />
-      </div>
-
-      <a href="{{ site.baseurl }}/pre-diabetes-diagnosis" class="read-more">Read More</a>
-    </article>
-
-<hr />
-
-<h1>Recent Posts</h1>
-
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
-=======
 {% capture my-include %}{% include index.md %}{% endcapture %}
 {{ my-include | markdownify }}
->>>>>>> 79f85c5dbfd9aedf335e3fb3ef5ce292c53d1ed1
+
