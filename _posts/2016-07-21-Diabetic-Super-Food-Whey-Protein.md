@@ -87,3 +87,4 @@ Below are some great links that talk about the benefits of Whey Protein in regar
 - [http://www.wellnessresources.com/weight/articles/how_whey_protein_helps_weight_loss_type_2_diabetes/](http://www.wellnessresources.com/weight/articles/how_whey_protein_helps_weight_loss_type_2_diabetes/){:target="_blank"}
 - [http://www.webmd.com/diet/news/20050729/whey-may-curb-effect-carbs-on-blood-sugar](http://www.webmd.com/diet/news/20050729/whey-may-curb-effect-carbs-on-blood-sugar){:target="_blank"}
 - [http://www.diabetesselfmanagement.com/blog/protein-supplements-whey/](http://www.diabetesselfmanagement.com/blog/protein-supplements-whey/){:target="_blank"}
+
