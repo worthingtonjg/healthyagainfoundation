@@ -456,7 +456,7 @@ Cinnamon is difficult to take by itself (unless you take Cinnamon pills).  So I 
 - My Whey Protien drink
 - My Oatmeal (not the pre-packaged high glycemic stuff - you have to use the real authentic oatmeal that you have to boil) 
 
-And I use a lot of it.  When I say a lot, I don't mean a little sprinkle.  I mean at least 1 tablespoon.  More if you can stand 
+And I use a lot of it.  When I say a lot, I don't mean a little sprinkle.  I mean at least 1 teaspoon or more.  More if you can stand 
 the strength.  But don't put too much in - you still have to be able to eat it.
 
 Cinnamon has a natural ability of lowering blood sugar and it has definitely worked for me, and is something that I use every day.
