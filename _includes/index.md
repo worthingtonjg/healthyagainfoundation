@@ -14,9 +14,9 @@ Luckily, I acted soon enough to prevent that from being my reality.
 If you are on Insulin be very careful about when and what you eat because you do not want your blood sugar to go low and you should 
 follow your doctor's advice and please do not think that what worked for me might work for you.
 
-I worked closely with a nutritionist and a doctor and without their help I would not have been successful.  
+I worked closely with a doctor and without his help I would not have been successful.  
 
-I am happy to say that today my fasting blood sugar is between 80 and 110.
+I am happy to say that today my fasting blood sugar is between 80 and 120.
 
 It has been a long road, but I now know it is possible to accomplish.  
 
