@@ -530,9 +530,9 @@ to its previously messed up state.
 
 However if I continue with my health lifestyle I know I can maintain what I have earned. 
 
-And I know you can do it to.
+And I know you can do it too.
 
-Please go to my resources page to view the many blog posts on topics that have helped me beat my diabetes.
+Please go to my <a href="{{ site.baseurl }}/diabetes-resources">resources</a> page to view the many blog posts on topics that have helped me beat my diabetes.
 
 Much of the information was summarized in my story above.  But more specific and detailed information can be found in the resouces 
 section of the website.
