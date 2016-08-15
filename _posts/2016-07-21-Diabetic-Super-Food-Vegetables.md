@@ -60,4 +60,7 @@ These items are nutritious, but should be eaten in moderation. The ADA groups th
 
 ### Learn More
 
-http://www.livestrong.com/article/402490-list-of-the-right-vegetables-for-diabetes/
+- <http://www.diabetes.org/food-and-fitness/food/what-can-i-eat/making-healthy-food-choices/non-starchy-vegetables.html?referrer=https://www.google.com/>{:target="_blank"}
+- <http://www.webmd.com/diabetes/diabetic-food-list-best-worst-foods>{:target="_blank"}
+- <http://www.livestrong.com/article/402490-list-of-the-right-vegetables-for-diabetes/>{:target="_blank"}
+- <http://www.diabetesselfmanagement.com/blog/vegetables-to-the-rescue/>{:target="_blank"}
