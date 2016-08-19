@@ -3,7 +3,7 @@ layout: post
 title: Diabetic Super Food - Lemons
 ---
 
-Lemons where the first food that I found that actually lowered my blood sugar.  I actually ran across it by accident one day
+Lemons are the first food that I found that actually lowered my blood sugar.  I actually ran across it by accident one day
 when I decided to make my own lemonade.  
 
 I took several large lemons, peeled them and chopped them up.  Then I added them 
